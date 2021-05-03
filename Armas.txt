@@ -1,0 +1,7 @@
+Sombrero (Base)
+Horca (+4 de daño)
+Cizallas (+2 de daño)
+Pelador (+1 de daño)
+Tenedor (+5 de daño)
+Rastrillo (+3 de daño)
+

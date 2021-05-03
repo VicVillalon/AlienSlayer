@@ -1,0 +1,11 @@
+Protagonista = [Pagés, rubio, sombrero de paja, peto de granja, botas]
+Lechuga = [Se protege mucho]
+Berenjena = [No para de lanzar]
+Cebolleta = [Ataca mucho]
+Cebolla = [Díficil]
+Brocoli = [Ataca y es dificil]
+Tomate = [Feliz, explota si no lo vences en dos turnos]
+Zanahoria = [Spamea mucho ataque]
+Alcachofa = [Suele tener extraturno]
+Mago = [Boss final]
+
